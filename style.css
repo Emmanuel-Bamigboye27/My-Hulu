@@ -1,0 +1,164 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+}
+header{
+    /* border: 1px solid black; */
+    background-color: #1ce783;
+    height: 90px;
+    padding-top: 20px;
+    padding-left: 120px;
+    font-family: Graphik,Helvetica,Arial,sans-serif;
+    background-color: none;
+    
+}
+header a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header h6{
+    padding-top: 10px;
+}
+.home img{
+    width: 100%;
+    height: auto;
+}
+.float{
+    display: flex;
+    justify-content: space-between;
+}
+.float img{
+    position: relative;
+    bottom: 550px;
+    width: 70px;
+    margin-left: 40px;
+    height: 70px;
+}
+.flat{
+    position: relative;
+    bottom: 550px;
+    width: 70px;
+    height: 30px;
+    margin-right: 40px;
+    margin-top: 20px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.185);
+    color: white;
+}
+.first{
+    box-sizing: border-box;
+    color: white;
+}
+.second{
+    display: flex;
+    position: relative;
+    bottom: 60px;
+}
+.third{
+    position: relative;
+    bottom: 400px;
+    padding-left: 380px;
+}
+.third h5{
+    color: #1ce783;
+    margin-left: 15px;
+}
+.third h3{
+    margin-left: 10px;
+    font-size: 22px;
+}
+.third img{
+    width: 200px;
+    margin-left: 10px;
+}
+.forth{
+    position: relative;
+    bottom: 400px;
+    padding-left: 80px;
+}
+.forth img{
+    width: 200px;
+}
+.forth h5{
+    color: #1ce783;
+}
+.forth h3{
+    margin-left: 625x;
+    font-size: 22px;
+}
+.one{
+    width: 200px;
+}
+.but{
+    padding-right: 120px;
+    padding-left: 70px;
+    font-family: sans-serif;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: #1ce783;
+    color:  #040405;
+    text-align: center;
+    border: none;
+    margin-left: -35px;
+    font-size: 13px;
+    align-items: center;
+    font-weight: 800;
+    
+}
+.bit{
+    padding-right: 120px;
+    padding-left: 70px;
+    font-family: sans-serif;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: #1ce783;
+    color:  #040405;
+    text-align: center;
+    border: none;
+    margin-left: -35px;
+    font-size: 13px;
+    align-items: center;
+    font-weight: 800;
+}
+.ahh{
+    position: relative;
+    bottom: 295px;
+    
+    background-color: #272c34;
+    height: 250px;
+}
+.bat{
+    position: relative;
+    bottom: 140px;
+    right: 360px;
+    color: white;
+}
+.bet{
+    position: relative;
+    bottom: 100px;
+    right: 480px;
+    color: white;
+}
+/* .now img{
+    width: 320px;
+    padding-left: 30px;
+    height: 450px;
+    border-radius: 10px;
+} */
+.now img{
+    height: 450px;
+    width: 320px;
+    padding-left: 30px;
+    border-radius:20px;
+    cursor: pointer;
+}
+section{
+    background-color: #272c34;
+}
